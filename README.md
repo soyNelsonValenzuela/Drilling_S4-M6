@@ -9,25 +9,25 @@ La aplicación explora el uso de código asíncrono en Node.js, realizando solic
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/soyNelsonValenzuela/Drilling_S4-M6.git
-   ```
+```
+git clone https://github.com/soyNelsonValenzuela/Drilling_S4-M6.git
+```
 
 2.	Navega al directorio del proyecto:
-   ```bash
-   cd Drilling_S4-M6
+```
+cd Drilling_S4-M6
 ```
 
 ## Uso
 
 Ejecuta la aplicación con :
 
-```bash
+```
 node index.js
 ```
 
 ## Estructura del Proyecto
 
-	•	index.js: Archivo principal donde se gestionan las solicitudes asíncronas.
-	•	PokeArray: Datos de ejemplo relacionados con Pokémon.
-	•	UrlsRandomApi: Listado de URLs para realizar pruebas con APIs aleatorias.
+- index.js: Archivo principal donde se gestionan las solicitudes asíncronas.
+- PokeArray: Datos de ejemplo relacionados con Pokémon.
+- UrlsRandomApi: Listado de URLs para realizar pruebas con APIs aleatorias.
